@@ -310,6 +310,8 @@ button {
 
 .banner_section {
     width: 100%;
+    height: 650px;
+    background-image: url(../images/banner-bg.png);
     float: left;
     padding: 90px 0px 100px 0px;
 }
